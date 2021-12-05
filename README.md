@@ -99,6 +99,6 @@
 
 
 -----
-<p style="font-size="5px;">**Credits**: <a href="https://github.com/JayantGoel001">JayantGoel001</a></p>
+<p style="font-size="3px;">Credits: <a href="https://github.com/JayantGoel001">JayantGoel001</a></p>
 
 
