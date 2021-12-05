@@ -39,8 +39,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-<code><img height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F4839613&psig=AOvVaw1uA4uo6f_cECjfmwoHgo9e&ust=1638804143532000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCY66j7zPQCFQAAAAAdAAAAABAJ"></code>
 <br/>
 
 #
@@ -53,17 +51,17 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/teguhprasetya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=teguhprasetya&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/JayantGoel001">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/teguhprasetya">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teguhprasetya&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=teguhprasetya&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
@@ -86,71 +84,6 @@
 
 <!--START_SECTION:waka-->
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Tuesday      112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Wednesday    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Thursday     117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Friday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Saturday     189 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Sunday       208 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    51 hrs 1 min        ████████████████████░░░░░   81.29% 
-C++                      3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-SCSS                     2 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-JavaScript               1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-HTML                     1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-🔥 Editors: 
-Browser                  50 hrs 15 mins      ████████████████████░░░░░   80.06% 
-WebStorm                 6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-CLion                    4 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-PyCharm                  1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
-
-🐱‍💻 Projects: 
-CodeChef                 16 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   26.77% 
-Get-It-Done              13 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.84% 
-Basic                    10 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-CodeForces               6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-AtCoder                  4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
-
-💻 Operating System: 
-Windows                  62 hrs 46 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         27 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-C++                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Kotlin                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
-
-```
-
-
 
  Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
@@ -167,14 +100,14 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 #
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
+  <a href="https://github.com/teguhprasetya">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
 <p align="center">
-  <a href='https://github.com/JayantGoel001/'>
+  <a href='https://github.com/teguhprasetya/'>
     <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
@@ -189,41 +122,16 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/ateguhbudisetyaprasetya/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <a href="https://www.instagram.com/a.tguhbdistyaprasetya/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
+  </a>  
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
-  </a>
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-</p>
 
 <br/>
 <br/>
